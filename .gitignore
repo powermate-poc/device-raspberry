@@ -1,0 +1,6 @@
+**/*.crt
+**/*.key
+**/*.pem
+.env
+**/__pycache__
+**/*.csv

@@ -1,0 +1,5 @@
+[pylint]
+disable = too-few-public-methods
+
+[pylint.messages_control]
+disable = missing-docstring
